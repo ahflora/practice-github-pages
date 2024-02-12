@@ -9,6 +9,8 @@
 
 # GitHub Pages
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/45344b395e7a4d3fa599b8ae39cf1451)](https://app.codacy.com/gh/ahflora/practice-github-pages?utm_source=github.com&utm_medium=referral&utm_content=ahflora/practice-github-pages&utm_campaign=Badge_Grade)
+
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
